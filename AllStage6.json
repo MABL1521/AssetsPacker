@@ -1,6 +1,11 @@
 {
   "version": 6.8.0,
-  "OTA": "OTA2",
+  "OTA": [
+    {
+      "isOta": true,
+      "VersionOTA": "OTA2"
+    }
+  ],
   "updated": "2026-11-23",
   "cars": [
     "Bugatti_VeyronSuperSport_2012",
